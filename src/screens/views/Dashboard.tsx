@@ -1,3 +1,9 @@
+/*
+*
+*  Dashboard.tsx
+*
+*/
+
 import React from 'react';
 import { View, Button, Text, Modal, SafeAreaView, ActivityIndicator, FlatList } from 'react-native';
 import BouncyCheckbox from 'react-native-bouncy-checkbox';
