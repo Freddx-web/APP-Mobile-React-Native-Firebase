@@ -1,4 +1,8 @@
-
+/**
+*
+*  Auth.js
+*
+*/
 import React from 'react';
 import { Text, View, TextInput, ImageBackground, KeyboardAvoidingView, Platform } from 'react-native';
 
