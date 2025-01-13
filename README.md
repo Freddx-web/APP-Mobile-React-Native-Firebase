@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://img.icons8.com/color/144/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/144/000000/typescript.png"/>
   </a>
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://img.icons8.com/external-others-amoghdesign/144/000000/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png"/>
